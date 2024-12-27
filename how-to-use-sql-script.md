@@ -1,4 +1,4 @@
-# How to Use the SQL Script: 
+# How to use the SQL Script: 
 * Clone this repository to your local machine.
 * Open pgAdmin and connect to your PostgreSQL server.
 * Create a new database (you can name it as you prefer).
